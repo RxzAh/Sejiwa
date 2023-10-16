@@ -421,4 +421,6 @@ img {
     -ms-border-radius: 5%;
     -o-border-radius: 5%;
 }
-
+link {
+    display: none;
+}
